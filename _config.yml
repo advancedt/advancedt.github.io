@@ -21,7 +21,7 @@ repository               : "https://advancedt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "resume.png"
+  avatar           : "resume.jpg"
   name             : "Haoyong Liu"
   pronouns         : # example: "she/her"  
   bio              : "YOLO"
