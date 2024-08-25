@@ -1,0 +1,17 @@
+/* custom.css */
+body {
+    background-color: #f0f0f0;
+}
+
+#clustrmaps-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 20%;
+    height: 20%;
+    z-index: 1000;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid #ccc;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
