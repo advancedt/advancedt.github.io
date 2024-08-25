@@ -1,15 +1,13 @@
 #clustrmaps-container {
-/*     position: fixed; */
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    /* 移除了 position: fixed; 使其自然流动 */
+    margin: 20px auto; /* 添加自动居中，并设置上下外边距 */
     width: 20%; /* 占页面宽度的 20% */
-    height: 20%; /* 占页面高度的 20% */
-    z-index: 1000; /* 确保在其他元素之上 */
+    height: auto; /* 高度可以自动调整，具体由内容决定 */
     background-color: rgba(255, 255, 255, 0.8); /* 半透明背景色 */
     border: 1px solid #ccc; /* 可选：为地图添加边框 */
-    overflow: hidden; /* 确保内容不溢出 */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* 可选：为地图添加阴影 */
+    overflow: hidden; /* 确保内容不溢出 */
+    text-align: center; /* 确保内容居中 */
 }
 
 #clustrmaps-container iframe {
