@@ -1,2 +1,10 @@
-About
-This is a test for my personal website
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+This is a test for my first website
