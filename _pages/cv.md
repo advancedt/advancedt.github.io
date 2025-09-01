@@ -15,8 +15,8 @@ Education
 
 Work Experience
 ======
-* Summer 2025: Software Engineer Intern
-  * Xiaomi Technology Co., Ltd., Beijing, China
+* Xiaomi Technology Co., Ltd., Beijing, China
+Software Engineer Intern
   * Developed Test Development Kit (TDK) using Python to create unified automation testing APIs across Android, HarmonyOS, and iOS platforms, supporting MiATP and MiCase testing frameworks
   * Built comprehensive CI/CD pipelines and testing platforms that improved testing efficiency by 80% and expanded automation coverage across 60+ device models with 15+ testing scenarios
   * Implemented performance monitoring tools using Python, TDK, and AirTest to track FPS, memory usage, and CPU performance metrics across multi-device environments
