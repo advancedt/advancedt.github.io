@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: archive
 title: "CV"
@@ -11,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical and Computer Engineering, University of Florida, 2025
+* M.S. in Electrical and Computer Engineering, University of Florida, 2025 (expected)
 * B.S. in Computer Science, Hohai University, 2023
 
 Work Experience
@@ -39,8 +38,6 @@ Project Experience
   * Built a worker pool and message queue system, using Goroutines for task execution and a round-robin algorithm for task scheduling
     <br>
   * Developed a connection management module to dynamically handle client connections, reducing server response time by 20% and optimizing resource utilization
-  <br>
-  <br>
 
 
 Skills
@@ -49,4 +46,3 @@ Skills
 * **Frameworks**: Gin, Gorm, PyTorch, Scikit-learn, SpringMVC, Redis, AirTest
 * **DevOps Tools**: Kubernetes, Docker, Git, GitLab CI/CD
 * **Developer Tools**: GoLand, PyCharm, IntelliJ IDEA, Vim, Navicat, Android Studio, VS Code
-```
