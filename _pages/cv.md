@@ -16,6 +16,7 @@ Education
 Work Experience
 ======
 * Xiaomi Technology Co., Ltd., Beijing, China
+  <br>
 Software Engineer Intern
   * Developed Test Development Kit (TDK) using Python to create unified automation testing APIs across Android, HarmonyOS, and iOS platforms, supporting MiATP and MiCase testing frameworks
   * Built comprehensive CI/CD pipelines and testing platforms that improved testing efficiency by 80% and expanded automation coverage across 60+ device models with 15+ testing scenarios
